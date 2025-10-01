@@ -5,7 +5,7 @@ A ideia é simples: guardar tudo o que estudo aqui no GitHub para acompanhar min
 
 📂 Estrutura
 ---------------------------------------------------------------------------------
-Os exercícios ficam organizados dentro da pasta src/newExercise
+Os exercícios ficam organizados dentro da pasta src/exercises
 
 🚀 Conteúdos já explorados
 ---------------------------------------------------------------------------------
